@@ -3,7 +3,7 @@ templateKey: blog-post
 title: One Line A Day Journal
 date: 2020-10-21T02:29:41.111Z
 description: Lambda School Build Week Project
-featuredpost: false
+featuredpost: true
 featuredimage: /img/one-line-a-day.png
 tags:
   - Lambda School
