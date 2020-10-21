@@ -14,7 +14,7 @@ tags:
   - Styled Components
   - ""
 ---
-![](/img/one-line-a-day.png)
+![portfolio image](/img/one-line-a-day.png "portfolio sign up/login page")
 
 **I worked with a team of 6 developers to produce this react application. We were split up into different groups marketing, frontend, and backend. I worked with the front-end team and we used React to produce an application where users can enter a journal entry each day. Users are also able to view a history of every entry they entered on a specific date for 10 years to help potentially detect a pattern of behavior**
 
